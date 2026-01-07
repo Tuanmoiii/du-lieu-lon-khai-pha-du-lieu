@@ -1,5 +1,8 @@
 import papermill as pm
 import datetime
+# -*- coding: utf-8 -*-
+import sys
+sys.stdout.reconfigure(encoding='utf-8')
 
 def run_pipeline():
     """Chạy toàn bộ pipeline từng bước một"""
