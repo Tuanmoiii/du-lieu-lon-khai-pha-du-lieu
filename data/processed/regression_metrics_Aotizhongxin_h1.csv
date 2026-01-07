@@ -1,0 +1,2 @@
+station,horizon,cutoff_date,best_model,mae,rmse,mape,r2,num_features
+Aotizhongxin,1,2017-01-01,Linear Regression,12.20656307874639,25.06041369456415,35.367630487801314,0.9981803107596648,16
