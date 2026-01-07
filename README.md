@@ -45,7 +45,7 @@ shopping_cart_analysis/
 │       └── apriori_modelling_run.ipynb
 │
 ├── src/
-│   └── shopping_cart_library.py
+│   └── apriori_library.py
 │
 ├── run_papermill.py
 ├── requirements.txt
@@ -149,11 +149,8 @@ Sắp xếp sản phẩm tại siêu thị
 
 
 ### Author
-Project thực hiện bởi:
+Project được thực hiện bởi:
 Trang Le
 
 📄 License
 MIT — sử dụng tự do cho nghiên cứu, học thuật và ứng dụng nội bộ.
-
-
-17.10
